@@ -14,7 +14,7 @@ private static String lcp(String s, String t)
 
 public static void main(String args[])
 {
-    //test client for lcp.
+    //test client for lcp..
     
 }
 
